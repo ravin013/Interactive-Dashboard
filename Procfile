@@ -1,1 +1,1 @@
-web: gunicorn bellybuttonhomework.app:app
+web:gunicorn run:app
