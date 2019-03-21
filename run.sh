@@ -1,1 +1,1 @@
-app.py
+FLASK_APP=app.py flask run
